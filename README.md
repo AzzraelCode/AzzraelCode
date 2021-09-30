@@ -30,4 +30,9 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent content
 
 <!-- BLOG-POST-LIST:START -->
+- [API Тинькофф Инвестиции + PHP + Sheets API = Wordpress plugin Экспорта](https://www.youtube.com/watch?v=Zt0-dOg4CG0)
+- [Парсинг hh.ru для поиска перспективных технологий для изучения](https://azzrael.ru/web-scrapping-hh-ru-python-xpath)
+- [Парсинг hh.ru на Python. Перспективность технологий.](https://www.youtube.com/watch?v=tFNdi7PtCkg)
+- [Ошибка 403 для Google API](https://azzrael.ru/error-403-access-denied-google-api)
+- [Стрим .2 / API Тинькофф Инвестиции и как создать дубликат листа в Google Sheets API.](https://www.youtube.com/watch?v=Ool_LCs2_uA)
 <!-- BLOG-POST-LIST:END -->
