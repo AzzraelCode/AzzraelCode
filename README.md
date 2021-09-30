@@ -27,7 +27,13 @@ Sites created w Wordpress, Yii, Laravel w many custom unpublic plugins. Money fl
 
 At the moment I'm interested in investing and algotraiding w Tinkoff Invest API and TradingView/PineScript. I make content at the YouTube Channel [AzzraelCode](https://www.youtube.com/channel/UCf6kozNejHoQuFhBDB8cfxA) and [azzrael.ru](https://azzrael.ru). 
 
-# Recent content
+# Recent videos
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- AZZCODEYT:START -->
+<!-- AZZCODEYT:END -->
+
+
+# Recent posts
+
+<!-- AZZRAELRU:START -->
+<!-- AZZRAELRU:END -->
