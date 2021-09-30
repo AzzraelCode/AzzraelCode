@@ -15,6 +15,7 @@ Python:
 - ORM (SQLAlchemy)
 - and as a toolkit for any business tasks (analitics, parsing, content generation etc.)
 
-
 Internet Entrepreneur
+I'm creator some web sites w up to 2M visiors monthly. There's one's stats
 
+![Unique visitors in 2021](https://github.com/AzzraelCode/AzzraelCode/blob/main/images/n.jpg?raw=true)
