@@ -41,10 +41,10 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent posts
 
 <!-- AZZRAELRU:START -->
+- [PHP ошибка OpenSSL error:14090086 и Failed to enable crypto in](https://azzrael.ru/error-ssl3_get_server_certificate-failed-to-enable-crypto-in)
 - [Парсинг hh.ru для поиска перспективных технологий для изучения](https://azzrael.ru/web-scrapping-hh-ru-python-xpath)
 - [Ошибка 403 для Google API](https://azzrael.ru/error-403-access-denied-google-api)
 - [Pine Script на русском](https://azzrael.ru/pine-script-na-russkom)
 - [requirements.txt в Python. Установка и версионирование зависимостей.](https://azzrael.ru/requirements-txt-python)
-- [TradingView + PineScript = Мечта айтишника-инвестора, дилетантский обзор](https://azzrael.ru/tradingview-pinescript-review)
 <!-- AZZRAELRU:END -->
 
