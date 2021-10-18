@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [Python + Pandas = Анализ инвестиций. Визуализация с matplotlib в Google Colab.](https://www.youtube.com/watch?v=HYftElwAIgg)
 - [Yandex SpeechKit. Получение ВЕЧНОГО Api Key. TTS на Python.](https://www.youtube.com/watch?v=Px1YyTj1h9M)
 - [📈 Обновление PineScript v5. Что нового? Библиотеки функций!](https://www.youtube.com/watch?v=SGbQd8RAbS4)
 - [Yandex Speechkit + Python = Синтез озвучки из текста, API](https://www.youtube.com/watch?v=X9tDjQitINI)
 - [[FIX] PHP OpenSSL error 14090086 ssl3 get server certificate and failed to enable crypto in #shorts](https://www.youtube.com/watch?v=pWnVjs0A89A)
-- [API Тинькофф Инвестиции + PHP + Sheets API = Wordpress plugin Экспорта](https://www.youtube.com/watch?v=Zt0-dOg4CG0)
 <!-- AZZCODEYT:END -->
 
 
