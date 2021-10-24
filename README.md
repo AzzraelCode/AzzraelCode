@@ -41,7 +41,7 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent posts
 
 <!-- AZZRAELRU:START -->
-- [API Тинькофф Инвестиции. Как начать? Тизер сериала.](https://azzrael.ru/api-tinkoff-invest-tiser)
+- [API Тинькофф Инвестиции. Как начать? Тизер сериала.](https://azzrael.ru/api-ti)
 - [Python, Pandas, OpenPyXl = Запись и изменения Excel таблиц](https://azzrael.ru/python-pandas-openpyxl-excel)
 - [Обновление PineScript с версии 4 до v5. Что нового?](https://azzrael.ru/pinescript-v5-update-library)
 - [Yandex SpeechKit + Python. Создание озвучки из текста](https://azzrael.ru/yandex-speechkit-python)
