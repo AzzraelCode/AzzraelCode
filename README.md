@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [😲 📈 Наивная стратегия в PineScript (по мотивам анализа Python + Pandas)](https://www.youtube.com/watch?v=UT89r7I-b7M)
 - [[Тизер] API Тиньков Инвестиций. Как работать на Python и PHP.](https://www.youtube.com/watch?v=XqWgdXbecdQ)
 - [Pyhon + Pandas + OpenPyXl = Excel, запись и редактирование](https://www.youtube.com/watch?v=Q6LtTnrB8es)
 - [Python + Pandas = Анализ инвестиций. Визуализация с matplotlib в Google Colab.](https://www.youtube.com/watch?v=HYftElwAIgg)
 - [Yandex SpeechKit. Получение ВЕЧНОГО Api Key. TTS на Python.](https://www.youtube.com/watch?v=Px1YyTj1h9M)
-- [📈 Обновление PineScript v5. Что нового? Библиотеки функций!](https://www.youtube.com/watch?v=SGbQd8RAbS4)
 <!-- AZZCODEYT:END -->
 
 
