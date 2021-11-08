@@ -31,7 +31,7 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 
 <!-- AZZCODEYT:START -->
 - [Yandex Compute Cloud + Docker + Python + Flask. Разворачиваем веб приложение.](https://www.youtube.com/watch?v=fCQ8ogMHSoo)
-- [😲 📈 Наивная стратегия в PineScript (по мотивам анализа Python + Pandas)](https://www.youtube.com/watch?v=UT89r7I-b7M)
+- [😲 📈 Наивная стратегия в PineScript &lpar;по мотивам анализа Python + Pandas&rpar;](https://www.youtube.com/watch?v=UT89r7I-b7M)
 - [[Тизер] API Тиньков Инвестиций. Как работать на Python и PHP.](https://www.youtube.com/watch?v=XqWgdXbecdQ)
 - [Pyhon + Pandas + OpenPyXl = Excel, запись и редактирование](https://www.youtube.com/watch?v=Q6LtTnrB8es)
 - [Python + Pandas = Анализ инвестиций. Визуализация с matplotlib в Google Colab.](https://www.youtube.com/watch?v=HYftElwAIgg)
