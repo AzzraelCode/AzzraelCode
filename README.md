@@ -41,10 +41,10 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent posts
 
 <!-- AZZRAELRU:START -->
+- [API Мосбиржи &lpar;ISS MOEX&rpar;. Как получить данные по акциям, облигациям. Начало.](https://azzrael.ru/api-iss-moex)
 - [Yandex Compute Cloud + Docker + Python + Flask. Разворачиваем веб приложение.](https://azzrael.ru/yandex-compute-cloud-docker-python-flask)
 - [API Тинькофф Инвестиции. Как начать? Тизер сериала.](https://azzrael.ru/api-ti)
 - [Python, Pandas, OpenPyXl = Запись и изменения Excel таблиц](https://azzrael.ru/python-pandas-openpyxl-excel)
 - [Обновление PineScript с версии 4 до v5. Что нового?](https://azzrael.ru/pinescript-v5-update-library)
-- [Yandex SpeechKit + Python. Создание озвучки из текста](https://azzrael.ru/yandex-speechkit-python)
 <!-- AZZRAELRU:END -->
 
