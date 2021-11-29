@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [Python. Сохранение таблицы Excel в картинку jpg &lpar;png, bmp&rpar; с pywin32 &lpar;Win32 API&rpar;  и Pillow](https://www.youtube.com/watch?v=XsEetOpsLrA)
 - [API Мосбиржи &lpar;ISS MOEX&rpar;. Как получить данные по акциям, облигациям. Начало.](https://www.youtube.com/watch?v=2ZWYnSryU9c)
 - [PineScript. Методы Пересечения в TradingView. ta.cross*](https://www.youtube.com/watch?v=5EB1Jz2n61g)
 - [Python + Flask + Docker + Nginx + PostgreSQL + Git + Yandex Cloud. Разворачиваю веб приложение.](https://www.youtube.com/watch?v=w7Sx_QNCekE)
 - [PineScript. Рисую Метки. label.new, label.* в TradingView](https://www.youtube.com/watch?v=Xql_tCBZGVg)
-- [API Тинькофф Инвестиции. Песочница - симуляция рыночных заявок через отложенные на Python](https://www.youtube.com/watch?v=B7jjyFu4CXE)
 <!-- AZZCODEYT:END -->
 
 
