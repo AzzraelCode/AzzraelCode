@@ -41,10 +41,10 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent posts
 
 <!-- AZZRAELRU:START -->
+- [Скринер Облигаций через API Мосбиржи](https://azzrael.ru/bonds-screener-iss-moex-python)
 - [Самоподписанный сертификат в Docker Compose + nginx+ https](https://azzrael.ru/docker-compose-nginx-https-selfsigned-cert)
 - [Docker Compose + WordPress. Как среда для разработки плагинов и тем.](https://azzrael.ru/docker-compose-wordpress-php-mysql)
 - [ISS MOEX &lpar;Мосбиржа&rpar; на Python. Отправка запроса с requests и обработка ответа в pandas.](https://azzrael.ru/iss-moex-python-requests-pandas)
 - [Python + pywin32 + PIL = Экспорт Excel таблицы в изображение](https://azzrael.ru/python-pywin32-pil-saving-excel-to-image)
-- [API Мосбиржи &lpar;ISS MOEX&rpar;. Как получить данные по акциям, облигациям. Начало.](https://azzrael.ru/api-iss-moex)
 <!-- AZZRAELRU:END -->
 
