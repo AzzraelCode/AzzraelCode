@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [С Новым 2022 Годом!](https://www.youtube.com/watch?v=zUECFnH0uDg)
 - [API Мосбиржи + Telegram Bot = Скринер облигаций в Телеграме](https://www.youtube.com/watch?v=dU1kCPCQM8M)
 - [TradingView Alerts. Обзор Крутой Штуки &lpar;особенно WebHook + Cloud Functions&rpar;](https://www.youtube.com/watch?v=QI4cVA8b1Fk)
 - [ISS MOEX + Python + SQL Lite = Скринер облигаций на API Мосбиржи ч.1. Структура базы и парсинг.](https://www.youtube.com/watch?v=8rE5uxAv2RU)
 - [Docker Compose + HTTPS + nginx. Самоподписанный сертификат.](https://www.youtube.com/watch?v=KIa9maIvWLc)
-- [Мосбиржа + Python + SQL Alchemy+ Pandas = Скринер облигаций на API Мосбиржи | ч.0](https://www.youtube.com/watch?v=SZwLhyJje5o)
 <!-- AZZCODEYT:END -->
 
 
