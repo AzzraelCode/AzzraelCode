@@ -41,10 +41,10 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent posts
 
 <!-- AZZRAELRU:START -->
+- [YouTube API + Python. Получить все видео на YouTube канале &lpar;playlistItems.list&rpar;](https://azzrael.ru/youtube-api-python-playlistitems-list)
 - [PineScript v5, Заливка фона методом fill в TradingView](https://azzrael.ru/pinescript-v5-fill)
 - [YouTube API + Python. Получение видео канала &lpar;search.list&rpar;](https://azzrael.ru/youtube-api-python-channel-videos-list)
 - [PineScript v5, Заливка фона цветом с методом bgcolor](https://azzrael.ru/pinescript-v5-bgcolor)
 - [Не записывается проездной на транспортную карту москвича через Московский транспорт](https://azzrael.ru/proezdnoy-deptrans-error-query)
-- [Скринер Облигаций через API Мосбиржи](https://azzrael.ru/bonds-screener-iss-moex-python)
 <!-- AZZRAELRU:END -->
 
