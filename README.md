@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [🔥 Новый API Тинькофф Инвестиции v.2. Что нового?](https://www.youtube.com/watch?v=8tjY02PcgPI)
 - [PineScript Tables. Всё о таблицах в TradingView](https://www.youtube.com/watch?v=jPViYytxmuY)
 - [YouTube API + Python. За малую квоту получить все видео на канале &lpar;через playlistintems.list&rpar;](https://www.youtube.com/watch?v=rdohBDFBlMo)
 - [PineScript Заливка фона функцией fill в TradingView](https://www.youtube.com/watch?v=L-Gsz-MXrTc)
 - [YouTube API + Python = Список видео загруженных на канал по channelId &lpar;search.list&rpar;](https://www.youtube.com/watch?v=8_zOR4Jgkxk)
-- [PineScript - Заливка фона с bgcolor в TradingView индикаторах и стратегиях](https://www.youtube.com/watch?v=UEO5r4-n4JM)
 <!-- AZZCODEYT:END -->
 
 
