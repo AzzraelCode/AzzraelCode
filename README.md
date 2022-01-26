@@ -41,10 +41,10 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent posts
 
 <!-- AZZRAELRU:START -->
+- [API v2 Тинькофф Инвестиции + Python  / Что нового, получение токена, установка SDK, настройка](https://azzrael.ru/api-v2-tinkoff-invest)
 - [PineScript Tables. Как работает и как пользоваться.](https://azzrael.ru/pinescript-tables)
 - [YouTube API + Python. Получить все видео на YouTube канале &lpar;playlistItems.list&rpar;](https://azzrael.ru/youtube-api-python-playlistitems-list)
 - [PineScript v5, Заливка фона методом fill в TradingView](https://azzrael.ru/pinescript-v5-fill)
 - [YouTube API + Python. Получение видео канала &lpar;search.list&rpar;](https://azzrael.ru/youtube-api-python-channel-videos-list)
-- [PineScript v5, Заливка фона цветом с методом bgcolor](https://azzrael.ru/pinescript-v5-bgcolor)
 <!-- AZZRAELRU:END -->
 
