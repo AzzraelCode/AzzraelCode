@@ -41,10 +41,10 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent posts
 
 <!-- AZZRAELRU:START -->
+- [Yandex Cloud Functions — Что это, зачем и как пользоваться](https://azzrael.ru/yandex-cloud-functions)
 - [YouTube API + Python. Комментарии на канале — как получить все?](https://azzrael.ru/youtube-api-python-channel-comments)
 - [API v2 Тинькофф Инвестиции getCandles + Python + TA Package](https://azzrael.ru/api-v2-tinkoff-invest-get-candles-python)
 - [API v2 Тиньков Инвестиции, метод getPortfolio](https://azzrael.ru/api-v2-tinkov-invest-getportfolio)
 - [API v2 Тинькофф Инвестиции + Python  / Что нового, получение токена, установка SDK, настройка](https://azzrael.ru/api-v2-tinkoff-invest)
-- [PineScript Tables. Как работает и как пользоваться.](https://azzrael.ru/pinescript-tables)
 <!-- AZZRAELRU:END -->
 
