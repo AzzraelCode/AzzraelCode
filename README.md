@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [Python + mplfinance Отрисовка свечного графика из данных + EMA](https://www.youtube.com/watch?v=bDiLrGlM9dQ)
 - [Yandex Cloud Functions 👍 Что это и как использовать? &lpar;FaaS, Python&rpar;](https://www.youtube.com/watch?v=SYwIFlXg-3w)
 - [Pine Script 🔥 Стратегия 402% Net Profit 🔥 Бесплатно! Исходники!](https://www.youtube.com/watch?v=1-VKwYVQ3xs)
 - [API v2 Тинькофф Инвестиции + Python ❤️‍🔥 Покупка и продажа | postOrder, лимитки, алготрейдинг](https://www.youtube.com/watch?v=aqwskJ0utDY)
 - [Как учить Python НЕ программистам](https://www.youtube.com/watch?v=vlYHr9W2kIg)
-- [API v2 Тиньков Инвестиции Operations + Python SDK, pandas | Операции на брокерском счете](https://www.youtube.com/watch?v=DxqeiwWZI4w)
 <!-- AZZCODEYT:END -->
 
 
