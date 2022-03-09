@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [How to create a Google Cloud Service Account to use w Google Sheets API](https://www.youtube.com/watch?v=fxGeppjO0Mg)
 - [Месье, же не манж па сис жур 🤧 Гебен мир зи битте этвас копек ауф дем штюк брод!](https://www.youtube.com/watch?v=7_CvK8_UY3M)
 - [Python + mplfinance Отрисовка свечного графика из данных + EMA](https://www.youtube.com/watch?v=bDiLrGlM9dQ)
 - [Yandex Cloud Functions 👍 Что это и как использовать? &lpar;FaaS, Python&rpar;](https://www.youtube.com/watch?v=SYwIFlXg-3w)
 - [Pine Script 🔥 Стратегия 402% Net Profit 🔥 Бесплатно! Исходники!](https://www.youtube.com/watch?v=1-VKwYVQ3xs)
-- [API v2 Тинькофф Инвестиции + Python ❤️‍🔥 Покупка и продажа | postOrder, лимитки, алготрейдинг](https://www.youtube.com/watch?v=aqwskJ0utDY)
 <!-- AZZCODEYT:END -->
 
 
