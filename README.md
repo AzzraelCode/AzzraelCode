@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [API v2 Тинькофф Инвестиции + Python, Песочница ч1 Создание, пополнение, удаление.](https://www.youtube.com/watch?v=ouGxqfFggAA)
 - [Безопасное хранение Токена в Переменных окружения](https://www.youtube.com/watch?v=C7EjaxRGrl8)
 - [Канал переезжает на Boosty? Скорее расширяется ;&rpar;](https://www.youtube.com/watch?v=yM41H8veLK4)
 - [Как скачать видео с YouTube в 1080p с pytube на Python](https://www.youtube.com/watch?v=3FIS2MiAXW8)
 - [Download YouTube video using Python 🔥 w title, thumbnail, captions and subtitles](https://www.youtube.com/watch?v=YbmdaLevJ1k)
-- [How to create a Google Cloud Service Account to use w Google Sheets API](https://www.youtube.com/watch?v=fxGeppjO0Mg)
 <!-- AZZCODEYT:END -->
 
 
