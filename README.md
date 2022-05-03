@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [Binance API kline candles + Python + Pandas = MACD](https://www.youtube.com/watch?v=De2DVmZStCA)
 - [Binance API ч2 🔥 Официальное SDK Python &lpar; binance-connector &rpar;](https://www.youtube.com/watch?v=NczNjVxwx3A)
 - [Binance API ч1 Начало. Токены + TestNet. Лимиты, первый запрос на Python &lpar;requests + hmac&rpar;](https://www.youtube.com/watch?v=mggpY1rJEp8)
 - [API v2 Тинькофф Инвестиции + Python 🤯 Песочница ч2 Покупка, продажа, лимитки.](https://www.youtube.com/watch?v=szU9l5W4yuY)
 - [API Binance + Python 👻 WebSocket Stream, Limit Orders](https://www.youtube.com/watch?v=AG2Ic348K8M)
-- [API v2 Тинькофф Инвестиции + Python, Песочница ч1 Создание, пополнение, удаление.](https://www.youtube.com/watch?v=ouGxqfFggAA)
 <!-- AZZCODEYT:END -->
 
 
