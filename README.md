@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [PineScript ⏰ Встроенные переменные времени &lpar;time variables&rpar;](https://www.youtube.com/watch?v=E6lGUnUYGKU)
 - [PineScript - масштабирование графика индикатора наложенного на график Цены в TradingView](https://www.youtube.com/watch?v=Iw5LYvL1xj4)
 - [Как посмотреть функцию по клику в IDE &lpar;Go To Declaration / Definition, PyCharm, VS Code, JetBrains&rpar;](https://www.youtube.com/watch?v=WrMQG-vMB3M)
 - [Как узнать FIGI по тикеру в API Тинькофф Инвестиции на Python](https://www.youtube.com/watch?v=8XwCopVsMcw)
 - [Binance API kline candles + Python + Pandas = MACD](https://www.youtube.com/watch?v=De2DVmZStCA)
-- [Binance API ч2 🔥 Официальное SDK Python &lpar; binance-connector &rpar;](https://www.youtube.com/watch?v=NczNjVxwx3A)
 <!-- AZZCODEYT:END -->
 
 
