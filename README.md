@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [TradingView Alerts WebHook + Python = Telegram | with Yandex Cloud Functions and Telegram Bot API](https://www.youtube.com/watch?v=nCW-esaFB9s)
 - [Binance API + Python | Отправляю Лимитный ордер &lpar; post limit order &rpar;](https://www.youtube.com/watch?v=fWYU8VAkqfo)
 - [😈 Binance API + Python | Websocket на websocket-client без binance-connector](https://www.youtube.com/watch?v=OFThdbbXRpQ)
 - [Binance API + Python ч.3 Рыночная заявка &lpar; Post Market Order &rpar;](https://www.youtube.com/watch?v=LMLA2syIMUU)
 - [PineScript ⏰ Встроенные переменные времени &lpar;time variables&rpar;](https://www.youtube.com/watch?v=E6lGUnUYGKU)
-- [PineScript - масштабирование графика индикатора наложенного на график Цены в TradingView](https://www.youtube.com/watch?v=Iw5LYvL1xj4)
 <!-- AZZCODEYT:END -->
 
 
