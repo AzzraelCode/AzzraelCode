@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [PineScript Strategy для НЕ программиста 3 Простые стратегии](https://www.youtube.com/watch?v=BsXH4Q7_HzU)
 - [PineScript input.source | Использую внешний индикатор TradingView в своем скрипте](https://www.youtube.com/watch?v=c2Vt_bzy0e4)
 - [PineScript Стратегии для Не Программиста ч2 strategy.close_all и интерфейс](https://www.youtube.com/watch?v=c_INQKqlVYI)
 - [PineScript Стратегии для Не Программиста ч1 Как создать стратегию в TradingView](https://www.youtube.com/watch?v=cVvXhin8hVs)
 - [Binance API Fees 🔴 Как считать комиссии на Python &lpar; Binance API Transaction Fee / comission &rpar;](https://www.youtube.com/watch?v=Tz2SIWljMZM)
-- [TradingView Alerts WebHook + Python = Telegram | with Yandex Cloud Functions and Telegram Bot API](https://www.youtube.com/watch?v=nCW-esaFB9s)
 <!-- AZZCODEYT:END -->
 
 
