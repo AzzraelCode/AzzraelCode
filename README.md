@@ -41,10 +41,10 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent posts
 
 <!-- AZZRAELRU:START -->
+- [PineScript — какие виды графиков выводит plot. Часть 3 закрашенные области и диаграмма](https://azzrael.ru/pinescript-kakie-vidy-grafikov-vyvodit-plot-chast-3-zakrashennye-oblasti-i-diagramma)
 - [PineScript — какие виды графиков выводит plot. Часть 2 гистограммы, перекрестия, окружности](https://azzrael.ru/pinescript-kakie-vidy-grafikov-vyvodit-plot-chast-2-gistogrammy-perekrestiya-okruzhnosti)
 - [PineScript — какие виды графиков выводит plot. Часть 1 линейные графики](https://azzrael.ru/pinescript-kakie-vidy-grafikov-vyvodit-plot-chast-1-linejnye-grafiki)
 - [PineScript — имя стратегии, функция strategy&lpar;&rpar;](https://azzrael.ru/pinescript-strategy-title)
 - [Как получить Figi по тикеру в API Тинькофф Инвестиции](https://azzrael.ru/get-figi-by-ticker-tinkoff-invest-api-python)
-- [Yandex Cloud Functions — Что это, зачем и как пользоваться](https://azzrael.ru/yandex-cloud-functions)
 <!-- AZZRAELRU:END -->
 
