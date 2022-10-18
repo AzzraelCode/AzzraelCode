@@ -41,10 +41,10 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent posts
 
 <!-- AZZRAELRU:START -->
+- [Pine Script. Арифметические операторы в TradingView](https://azzrael.ru/pine-script-arifmeticheskie-operatory-v-tradingview)
 - [Pine Script. Оператор присваивания в TradingView](https://azzrael.ru/pine-script-operator-prisvaivaniya-v-tradingview)
 - [Pine Script. Знакомство с операторами в TradingView](https://azzrael.ru/znakomstvo-s-operatorami-tradingview)
 - [Pine Script. 2 способа отбросить дробную часть чисел в TradingView](https://azzrael.ru/pine-script-2-sposoba-otbrosit-drobnuyu-chast-chisel-v-tradingview)
 - [Pine Script. 3 способа округления чисел в TradingView](https://azzrael.ru/pine-script-3-sposoba-okrugleniya-chisel-v-tradingview)
-- [Pine Script. Как преобразовать числа в текст с помощью str.tostring &lpar;приведение типов&rpar;](https://azzrael.ru/pine-script-kak-preobrazovat-chisla-v-tekst-s-pomoshhyu-str-tostring-privedenie-tipov)
 <!-- AZZRAELRU:END -->
 
