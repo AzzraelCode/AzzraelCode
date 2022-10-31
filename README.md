@@ -41,10 +41,10 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent posts
 
 <!-- AZZRAELRU:START -->
+- [Pinescript. Приоритет операторов](https://azzrael.ru/pinescript-prioritet-operatorov)
+- [Pinescript. Создание пользовательских функций](https://azzrael.ru/pinescript-sozdanie-polzovatelskix-funkcij)
 - [Pine Script. Логические операторы](https://azzrael.ru/pine-script-logicheskie-operatory)
 - [Pine Script. Операторы сравнения](https://azzrael.ru/pine-script-operatory-sravneniya)
 - [Pine Script. Тернарный оператор или оператор условия](https://azzrael.ru/pine-script-ternarnyj-operator-ili-operator-usloviya)
-- [Pine Script. Индекс серии или оператор получения исторических данных](https://azzrael.ru/pine-script-indeks-serii-ili-operator-polucheniya-istoricheskix-dannyx)
-- [Pine Script. Ошибка undeclared identifier или необъявленный идентификатор в TradingView?](https://azzrael.ru/pine-script-oshibka-undeclared-identifier-ili-neobyavlennyj-identifikator-v-tradingview)
 <!-- AZZRAELRU:END -->
 
