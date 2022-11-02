@@ -41,10 +41,10 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent posts
 
 <!-- AZZRAELRU:START -->
+- [Pinescript. Как сравнить цены закрытия текущих и исторических баров](https://azzrael.ru/pinescript-kak-sravnit-ceny-zakrytiya-tekushhix-i-istoricheskix-barov)
 - [Pinescript. Как получить номер бара в TradingView? &lpar;переменная bar_index&rpar;](https://azzrael.ru/pinescript-kak-poluchit-nomer-bara-v-tradingview-peremennaya-bar_index)
 - [Pinescript. Приоритет операторов](https://azzrael.ru/pinescript-prioritet-operatorov)
 - [Pinescript. Создание пользовательских функций](https://azzrael.ru/pinescript-sozdanie-polzovatelskix-funkcij)
 - [Pine Script. Логические операторы](https://azzrael.ru/pine-script-logicheskie-operatory)
-- [Pine Script. Операторы сравнения](https://azzrael.ru/pine-script-operatory-sravneniya)
 <!-- AZZRAELRU:END -->
 
