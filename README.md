@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [Торговый бот на Python и OKX API .1 Получаю ключи](https://www.youtube.com/watch?v=E4Y7SWBylBQ)
 - [Python + Trongrid API. Получаю транзакции USDT в сети TRC20 блокчейна TRON. Легко, без парсинга.](https://www.youtube.com/watch?v=lJ3Jsf_4UZ8)
 - [OKX &lpar;OKEx&rpar; API vs Binance API для разработчика. Первый взгляд.](https://www.youtube.com/watch?v=mDocH80NKvs)
 - [PineScript Strategy для НЕ программиста 3 Простые стратегии](https://www.youtube.com/watch?v=BsXH4Q7_HzU)
 - [PineScript input.source | Использую внешний индикатор TradingView в своем скрипте](https://www.youtube.com/watch?v=c2Vt_bzy0e4)
-- [PineScript Стратегии для Не Программиста ч2 strategy.close_all и интерфейс](https://www.youtube.com/watch?v=c_INQKqlVYI)
 <!-- AZZCODEYT:END -->
 
 
