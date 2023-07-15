@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [🤡 Как написать 100500% стратегию на TradingView. PineScript Repaint Example.](https://www.youtube.com/watch?v=cz8P50W0Rv0)
 - [Экспорт ордеров Binance в Excel за всю историю. Binance API + Python. Coding ASMR.](https://www.youtube.com/watch?v=z9bjNWHqEeM)
 - [Spot Grid Bot, Сеточный Спот. Бэктесты в TSLab и как работает.](https://www.youtube.com/watch?v=tvfbXcGhLX8)
 - [Торговый бот на Python и OKX API .4 Готовый пример Робота.](https://www.youtube.com/watch?v=b0bKujYbaqo)
 - [Торговый бот на Python и OKX API .3 👨🏻‍💻 Рыночные ордера. Списки ордеров и детали рыночной заявки.](https://www.youtube.com/watch?v=uBo0oB47lGU)
-- [Торговый бот на Python и OKX API .2 🤖 Установка python-okx SDK. Получение баров и баланса.](https://www.youtube.com/watch?v=y9Z7QzKaKec)
 <!-- AZZCODEYT:END -->
 
 
