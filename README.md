@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [PineScript VAR и VARIP модификаторы declaration modes. Программирование индикаторов в TradingView.](https://www.youtube.com/watch?v=B1p72IK4C64)
 - [Websocket OKX API Python p2 - logging, errors, disconnects and reconnects](https://www.youtube.com/watch?v=F7VNi_V0rMU)
 - [PineScript Plot ч.2 - рисуем гистограммы, ступенчатые графики, стили и заливки](https://www.youtube.com/watch?v=m42MeRRykrw)
 - [OKX API Websocket w Python ч1 - подключение к бирже и получение Public Data](https://www.youtube.com/watch?v=YCEMCVWiSH0)
 - [PineScript метод Plot - рисуем графики в TradingView ч.1](https://www.youtube.com/watch?v=-SFOkEgz6hc)
-- [🤡 Как написать +100500% стратегию на TradingView. PineScript Repaint Example.](https://www.youtube.com/watch?v=cz8P50W0Rv0)
 <!-- AZZCODEYT:END -->
 
 
