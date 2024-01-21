@@ -30,11 +30,11 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [ByBit API + Python ч1 | Установка pybit, Public Market Data, Обработка Ошибок.](https://www.youtube.com/watch?v=nJrZ6rJIwa4)
 - [PineScript Logs | Логирование отладочных сообщений в TradingVew log.info, log.error, log.warning](https://www.youtube.com/watch?v=BdTH34nFQ-Q)
 - [PineScript Практикум p1 | Динамический канал по Макс Мин за период #pinescript #shorts](https://www.youtube.com/watch?v=xs9vUWuyiV4)
 - [OKX API Websocket + Python  ч.3 | Авторизация &lpar;Login&rpar; и Подписка на Ордера по приватному каналу](https://www.youtube.com/watch?v=xMVQEchz8MQ)
 - [PineScript VAR и VARIP модификаторы declaration modes. Программирование индикаторов в TradingView.](https://www.youtube.com/watch?v=B1p72IK4C64)
-- [OKX API Websocket + Python  ч.2 | Логгирование и Реконнекты. Logging, errors, disconnects/reconnects](https://www.youtube.com/watch?v=F7VNi_V0rMU)
 <!-- AZZCODEYT:END -->
 
 
