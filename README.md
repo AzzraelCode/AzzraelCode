@@ -11,7 +11,7 @@ I can deploy and support project to VDS or cloud solution (DigitalOcean, Google 
 3 https://azzrael.ru/spasibo#contacts \
 
 🤑 Support me \
-1 Binace Pay ID: 335292515 \ 
+1 Binace Pay ID: 335292515 \
 2 https://boosty.to/azzrael \
 
 # Recent videos
