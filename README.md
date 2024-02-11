@@ -1,31 +1,18 @@
-# Who am I?
+I'm an IT Man for Traders 🤑. Algotrading with Python, JavaScript, PHP at Binance, OKX. 
+I can deploy and support project to VDS or cloud solution (DigitalOcean, Google Cloud or AWS). I backtest trading bots with PineScript on TradingView and develop custom trading indicators.
 
-I'm a Web Developer (PHP, Python, JavaScript, SQL, C#), Internet Entrepreneur (web sites owner w up to 2M unique visitors/mo) and a blogger a bit.
+😆 I do not teach anybody. My videos - some cuts of daily work, not more. I'm not a freelancer or staff, I work for myself.
 
-# What am I doing?
+🖖 I am open to communication about interesting projects in trading and investment, with an experienced team and an adequate budget.
 
-PHP:
-- Wordpress developer (themes, plugins, optimization, installation) 
-- Frameworks (Laravel, Yii, CodeInteger)
-- some apis (Google API, Telegram API (not only bots), VK API, OK API, FB API etc.)
+👀 Contacts 
+1 In comments threads ;)
+2 azzrael.ru@gmail.com
+3 https://azzrael.ru/spasibo#contacts 
 
-Python:
-- Frameworks (Django, Flask)
-- UI (Tkinter, PyQT)
-- ORM (SQLAlchemy)
-- and as a toolkit for any business tasks (analitics, parsing, content generation etc.)
-
-Internet Entrepreneur
-
-I'm creator some web sites w up to 2M visiors monthly. There's one's stats
-
-![Unique visitors in 2021](https://github.com/AzzraelCode/AzzraelCode/blob/main/images/n.jpg?raw=true)
-
-Sites created w Wordpress, Yii, Laravel w many custom unpublic plugins. Money flow is from Google Adsense, Yandex Ads and some affilates (CPA and direct advs).
-
-# ... and not only devs
-
-At the moment I'm interested in investing and algotraiding w Tinkoff Invest API and TradingView/PineScript. I make content at the YouTube Channel [AzzraelCode](https://www.youtube.com/channel/UCf6kozNejHoQuFhBDB8cfxA) and [azzrael.ru](https://azzrael.ru). 
+🤑 Support me
+1 Binace Pay ID: 335292515
+2 https://boosty.to/azzrael
 
 # Recent videos
 
@@ -36,15 +23,4 @@ At the moment I'm interested in investing and algotraiding w Tinkoff Invest API 
 - [ByBit API + Python ч1 | Установка pybit, Public Market Data, Обработка Ошибок.](https://www.youtube.com/watch?v=nJrZ6rJIwa4)
 - [PineScript Logs | Логирование отладочных сообщений в TradingVew log.info, log.error, log.warning](https://www.youtube.com/watch?v=BdTH34nFQ-Q)
 <!-- AZZCODEYT:END -->
-
-
-# Recent posts
-
-<!-- AZZRAELRU:START -->
-- [Pinescript. Как работает оператор if / else &lpar;часть 2&rpar;](https://azzrael.ru/pinescript-kak-rabotaet-operator-if-else-chast-2)
-- [Pinescript. Как работает оператор if / else &lpar;часть 1&rpar;](https://azzrael.ru/pinescript-kak-rabotaet-operator-if-else-chast-1)
-- [Pinescript. Как найти пересечение двух величин на графике](https://azzrael.ru/pinescript-kak-najti-peresechenie-dvux-velichin-na-grafike)
-- [Pinescript. Как найти самую высокую и самую низкую цену за период](https://azzrael.ru/pinescript-kak-najti-samuyu-vysokuyu-i-samuyu-nizkuyu-cenu-za-period)
-- [Pinescript. Как нарисовать свой индикатор в TradingView](https://azzrael.ru/pinescript-kak-narisovat-svoj-indikator-v-tradingview)
-<!-- AZZRAELRU:END -->
 
