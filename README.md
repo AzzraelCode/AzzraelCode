@@ -8,11 +8,11 @@ I can deploy and support project to VDS or cloud solution (DigitalOcean, Google 
 👀 Contacts \
 1 In comments threads ;) \
 2 azzrael.ru@gmail.com \
-3 https://azzrael.ru/spasibo#contacts \
+3 https://azzrael.ru/spasibo#contacts
 
 🤑 Support me \
 1 Binace Pay ID: 335292515 \
-2 https://boosty.to/azzrael \
+2 https://boosty.to/azzrael
 
 # Recent videos
 
