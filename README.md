@@ -6,6 +6,7 @@ I can deploy and support project to VDS or cloud solution (DigitalOcean, Google 
 🖖 I am open to communication about interesting projects in trading and investment, with an experienced team and an adequate budget.
 
 👀 Contacts 
+
 1 In comments threads ;)
 2 azzrael.ru@gmail.com
 3 https://azzrael.ru/spasibo#contacts 
