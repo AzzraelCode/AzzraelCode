@@ -18,10 +18,10 @@ I can deploy and support project to VDS or cloud solution (DigitalOcean, Google 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [ByBit API + Python ч5-1 | Websocket. Подключение и Публичные Данные.](https://www.youtube.com/watch?v=8SY-G0Hk64Y)
 - [ByBit API + Python ч4 | Лимитный Спотовый Ордер &lpar; Spot Limit Orders &rpar; Отправка и отмена.](https://www.youtube.com/watch?v=P8K30dB85rM)
 - [ByBit API + Python ч3 | Отправка Спотового Рыночного Ордера](https://www.youtube.com/watch?v=e7Np2ICYBzg)
 - [ByBit API + Python ч2 | API Keys, Авторизация, Лимиты](https://www.youtube.com/watch?v=dAev6Zurecc)
 - [ByBit API + Python ч1 | Установка pybit, Public Market Data, Обработка Ошибок.](https://www.youtube.com/watch?v=nJrZ6rJIwa4)
-- [PineScript Logs | Логирование отладочных сообщений в TradingVew log.info, log.error, log.warning](https://www.youtube.com/watch?v=BdTH34nFQ-Q)
 <!-- AZZCODEYT:END -->
 
