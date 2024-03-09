@@ -19,9 +19,9 @@ I can deploy and support project to VDS or cloud solution (DigitalOcean, Google 
 
 <!-- AZZCODEYT:START -->
 - [ByBit API + Python ч.5-2 | Websocket. Приватные Данные &lpar;wallet, order, positions, executions&rpar;.](https://www.youtube.com/watch?v=5oZvSWKGyFU)
+- [TradingView + Binance | Реальная Торговля по Индикаторам с Alert Webhook Signal Trading](https://www.youtube.com/watch?v=VCPZUhIJsfM)
 - [TradingView + ByBit | Реальная Торговля из Стратегий с Alert Webhook Signal Trading](https://www.youtube.com/watch?v=D5Inyt2RalQ)
 - [ByBit API + Python ч5-1 | Websocket. Подключение и Публичные Данные.](https://www.youtube.com/watch?v=8SY-G0Hk64Y)
 - [ByBit API + Python ч4 | Лимитный Спотовый Ордер &lpar; Spot Limit Orders &rpar; Отправка и отмена.](https://www.youtube.com/watch?v=P8K30dB85rM)
-- [ByBit API + Python ч3 | Отправка Спотового Рыночного Ордера](https://www.youtube.com/watch?v=e7Np2ICYBzg)
 <!-- AZZCODEYT:END -->
 
