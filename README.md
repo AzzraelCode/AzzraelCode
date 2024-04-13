@@ -18,10 +18,10 @@ I can deploy and support project to VDS or cloud solution (DigitalOcean, Google 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [TradingView Индикатор превращаю в Стратегию для торговли и бэктестов](https://www.youtube.com/watch?v=oV1hzXoMk5I)
 - [ByBit API + Python ч.7 | Conditional Order &lpar; Условный Ордер&rpar; Futures Perpetual](https://www.youtube.com/watch?v=tVBxvKP3sMM)
 - [PineScript Простая Стратегия с Trailing Stop Loss для TradingView](https://www.youtube.com/watch?v=uMfaNehQV0Q)
 - [ByBit API + Python ч.6 | Фьючерсы - Ордера &lpar;Рыночные и Лимитные&rpar;, Позиции.](https://www.youtube.com/watch?v=uPMfQXwHZpo)
 - [TradingView + Binance | Реальная Торговля по Индикаторам с Alert Webhook Signal Trading](https://www.youtube.com/watch?v=VCPZUhIJsfM)
-- [ByBit API + Python ч.5-2 | Websocket. Приватные Данные &lpar;wallet, order, positions, executions&rpar;.](https://www.youtube.com/watch?v=5oZvSWKGyFU)
 <!-- AZZCODEYT:END -->
 
