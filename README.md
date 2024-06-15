@@ -18,10 +18,10 @@ I can deploy and support project to VDS or cloud solution (DigitalOcean, Google 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
+- [TradingView Deep Backtesting. Качественные бэкстесты в ТрейдингВью!](https://www.youtube.com/watch?v=NQ66EWA6c5Y)
 - [Бэктесты в трейдинге не работают ?!](https://www.youtube.com/watch?v=eCpFwBYXWDs)
 - [TradingView корреляции и спреды БЕЗ программирования на PineScript](https://www.youtube.com/watch?v=N8Tpv1M7EFQ)
 - [TradingView Индикатор превращаю в Стратегию для торговли и бэктестов](https://www.youtube.com/watch?v=oV1hzXoMk5I)
 - [ByBit API + Python ч.7 | Conditional Order &lpar; Условный Ордер&rpar; Futures Perpetual](https://www.youtube.com/watch?v=tVBxvKP3sMM)
-- [PineScript Простая Стратегия с Trailing Stop Loss для TradingView](https://www.youtube.com/watch?v=uMfaNehQV0Q)
 <!-- AZZCODEYT:END -->
 
