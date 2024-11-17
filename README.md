@@ -18,8 +18,8 @@ I can deploy and support project to VDS or cloud solution (DigitalOcean, Google 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
-- [OKX Websocket API Python | OrderBook books, Стакан с глубиной 400](https://www.youtube.com/watch?v=Mdai6-FlGRw)
 - [PineScript Strategy Stop Loss / Take Profit, пример кода для TradingView](https://www.youtube.com/watch?v=0QL4WhwtqjY)
+- [OKX Websocket API Python | OrderBook books, Стакан с глубиной 400](https://www.youtube.com/watch?v=Mdai6-FlGRw)
 - [OKX Websocket API Python | OrderBook books5, Подписка на стакан с глубиной в 5](https://www.youtube.com/watch?v=Nrt04vg7DTI)
 - [TradingView Deep Backtesting. Качественные бэкстесты в ТрейдингВью!](https://www.youtube.com/watch?v=NQ66EWA6c5Y)
 - [Бэктесты в трейдинге не работают ?!](https://www.youtube.com/watch?v=eCpFwBYXWDs)
