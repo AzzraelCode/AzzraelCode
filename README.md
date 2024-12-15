@@ -18,7 +18,7 @@ I can deploy and support project to VDS or cloud solution (DigitalOcean, Google 
 # Recent videos
 
 <!-- AZZCODEYT:START -->
-- [OKX API Python | Как получить Свечи &lpar;Бары&rpar; с пагинацией за всю историю. Get Candlesticks all time.](https://www.youtube.com/watch?v=UtseJ2D15F0)
+- [API OKX Котировки крипты &lpar;свечи, бары&rpar; за всю историю с пагинацией с python-okx](https://www.youtube.com/watch?v=UtseJ2D15F0)
 - [OKX API Trigger Order. Как работает триггерный ордер и как поставить через Python SDK API OKX](https://www.youtube.com/watch?v=88uvzxpW-xg)
 - [PineScript Strategy Stop Loss / Take Profit, пример кода для TradingView](https://www.youtube.com/watch?v=0QL4WhwtqjY)
 - [OKX Websocket API Python | OrderBook books, Стакан с глубиной 400](https://www.youtube.com/watch?v=Mdai6-FlGRw)
